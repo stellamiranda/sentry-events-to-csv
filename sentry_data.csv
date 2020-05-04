@@ -1,0 +1,2 @@
+Event ID,Event message,Account uuid,Client uuid,Level,User uuid,URL,Date created,OS,Browser,IP address
+1111111111111111111111111111111,Customer clicked the modal,77777777-0000-4444-8888-eeeeeeeeeeee,77777777-eeee-4444-8888-000000000000,info,22222222-9999-4444-bbbb-777777777777,htttps://myexampleapp.com ,2020-04-22T22:57:49Z,Windows 10,Chrome 80.0.3987,127.0.0.1
